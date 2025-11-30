@@ -11,4 +11,4 @@ The following pages will compare aspects of the consoles against each other and 
 
 *Click here to continue with the review:*
 
-[Next →](switch.md)
+[Next →](price.md)
