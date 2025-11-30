@@ -47,3 +47,6 @@ For me, I think systems need a strong exclusive lineup in order to sell well, an
 ### Winner:
 
 ### ***Nintendo Switch 2***
+
+[← Back](price.md)
+[Next →](future.md)
