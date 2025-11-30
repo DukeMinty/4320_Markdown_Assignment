@@ -46,3 +46,6 @@ If you just want a system that lets you play a few nonchalant games with friends
 ### Winner:
 
 ### ***Playstation 5***
+
+[← Back](README.md)
+[Next →](exclusives.md)
